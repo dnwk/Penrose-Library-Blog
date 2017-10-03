@@ -14,13 +14,12 @@ Penrose Library has recently subscribed to three new collections of online schol
 Oxford Scholarship Online includes all publications from Oxford University Press and University of California Press, covering the humanities, social sciences, sciences, medicine, and law.
 
 Wiley Online Library hosts a large multidisciplinary collection of online resources covering life, health and physical sciences, social science, and the humanities.
-
 Taylor &amp; Francis eBooks is a platform with over 66,000 eBooks and provides content in the humanities, social and behavioral sciences, education, built environment, and law, from imprints such as Routledge, Psychology Press, Focal Press, Earthscan, Eye on Education, Acumen, and Ashgate.
 <!--more-->
-
-<br/>
+[caption id="attachment_1005" align="alignnone" width="255"]<img class="wp-image-1005 size-full" src="https://library.whitman.edu/blog/wp-content/uploads/sites/4/2017/10/256px-EReading_devices.jpg" alt="An image of different ebook readers" width="255" height="120" /> By Per Palmkvist Knudsen (Own work) [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons[/caption]
 <h5>What is Digital Rights Management?</h5>
 DRM, according to American Library Association (ALA), is any system used by producers, publishers, and vendors to embed technological controls on what users can do with electronic files – ebooks, movies on DVDs, and other media. Specifically, DRM systems are designed both to enable access and use of digital materials while restricting copying, sharing, reformatting or otherwise changing electronic media. While DRM may provide the copyright owner more control to their content, opponents worry it could also restrict some legal use of copyrighted materials including fair use. Libraries are particularly concerned in how DRM may affect their ability to disseminate and preserve information. Find out more about <a href="http://www.ala.org/advocacy/copyright/digitalrights">DRM &amp; Libraries</a> from ALA.
 
-<hr/>
-<i>American Library Association. "ALA DCWG Tip Sheet: DRM."  Digital Content and Libraries Working Group. Last modified July 2012. http://www.districtdispatch.org/wp-content/uploads/2012/07/drm_tip_sheet.pdf.</i>
+<small>
+<p style="font-style: italic;">American Library Association. "ALA DCWG Tip Sheet: DRM."  Digital Content and Libraries Working Group. Last modified July 2012. http://www.districtdispatch.org/wp-content/uploads/2012/07/drm_tip_sheet.pdf.</p>
+</small>

@@ -2,7 +2,7 @@
 ID: 992
 post_title: eBooks on any device!
 author: Julie Carter
-post_excerpt: ""
+post_excerpt: 'Penrose Library has recently subscribed to three new collections of online scholarly resources: Wiley Online Library, Oxford Scholarship Online and Taylor & Francis eBooks. It provides may access the 100,000 DRM-free resources on any device that supports PDFs including e-Readers or mobile devices. '
 layout: post
 permalink: >
   https://library.whitman.edu/blog/ebooks-on-any-device/

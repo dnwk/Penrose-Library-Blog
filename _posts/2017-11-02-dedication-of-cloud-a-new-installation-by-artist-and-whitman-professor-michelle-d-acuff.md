@@ -3,7 +3,7 @@ ID: 1026
 post_title: >
   Dedication of CLOUD, a new installation
   by artist and Whitman professor Michelle
-  D. Acuff
+  D. Acuff.
 author: Julie Carter
 post_excerpt: 'You are invited to the dedication of CLOUD, a new installation by artist and Whitman professor Michelle D. Acuff.  Please join us on Friday, November 3rd, from 4:00 - 5:30 pm in the Penrose Library Foyer.   '
 layout: post

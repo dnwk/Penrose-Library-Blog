@@ -8,7 +8,7 @@ author: Julie Carter
 post_excerpt: 'You are invited to the dedication of CLOUD, a new installation by artist and Whitman professor Michelle D. Acuff.  Please join us on Friday, November 3rd, from 4:00 - 5:30 pm in the Penrose Library Foyer.   '
 layout: post
 permalink: >
-  https://library.whitman.edu/blog/dedication-of-cloud-a-new-installation-by-artist-and-whitman-professor-michelle-d-acuff/
+  https://library.whitman.edu/blog/cloud-dedication/
 published: true
 post_date: 2017-11-02 08:46:32
 ---

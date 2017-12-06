@@ -5,7 +5,7 @@ author: Kun Lin
 post_excerpt: 'Full-page newspaper images for The Oregonian (Portland, OR) are now available to Whitman faculty, students, and staff via Access World News.  The full image allows readers to view the paper as it appears in print.  Other local newspapers are also available.'
 layout: post
 permalink: >
-  https://library.whitman.edu/blog/read-a-local-newspaper/
+  https://library.whitman.edu/blog/read-local-newspaper/
 published: true
 post_date: 2017-12-06 11:52:55
 ---

@@ -2,7 +2,12 @@
 ID: 1145
 post_title: Whitman Undergraduate Conference 2018
 author: Amy Blau
-post_excerpt: ""
+post_excerpt: >
+  Penrose Library and the Whitman College
+  and Northwest Archives want to help
+  students share their Undergraduate
+  Conference research with the Whitman
+  Community and beyond!
 layout: post
 permalink: >
   https://library.whitman.edu/blog/whitman-undergraduate-conference-2018/

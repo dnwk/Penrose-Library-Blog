@@ -5,9 +5,7 @@ post_title: >
   David Schmitz in Celebration of the
   Digitization of The Pioneer
 author: Julie Carter
-post_excerpt: >
-  Thursday, Mar. 28 at 7 p.m. at Allen
-  Reading Room, Penrose Library.
+post_excerpt: '   '
 layout: post
 permalink: >
   https://library.whitman.edu/blog/an-evening-of-reflections-with-professor-david-schmitz/

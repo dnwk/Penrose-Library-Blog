@@ -10,7 +10,7 @@ post_excerpt: |
   
   A Lecture on “the Liberal Arts in Crisis in the 1970s: A Preview of Volume III of the History of Whitman College”
   
-  Join Penrose Library and the Office of Alumni Relations to celebrate the digitization of The Pioneer, Whitman’s student newspaper. To commemorate this occasion Dr. David F. Schmitz, will discuss archival research and the problems that faced Whitman College (and all liberal arts colleges) in the mid-1970s.
+  Dr. David F. Schmitz, will discuss archival research and the problems that faced Whitman College (and all liberal arts colleges) in the mid-1970s.
 layout: post
 permalink: >
   https://library.whitman.edu/blog/an-evening-of-reflections-with-professor-david-schmitz/

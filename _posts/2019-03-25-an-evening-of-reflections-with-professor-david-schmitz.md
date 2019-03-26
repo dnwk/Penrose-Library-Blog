@@ -5,7 +5,10 @@ post_title: >
   David Schmitz in Celebration of the
   Digitization of The Pioneer
 author: Julie Carter
-post_excerpt: '   '
+post_excerpt: |
+  Thursday, Mar. 28 at 7 p.m. at Allen Reading Room, Penrose Library.
+  
+  A Lecture on “the Liberal Arts in Crisis in the 1970s: A Preview of Volume III of the History of Whitman College”
 layout: post
 permalink: >
   https://library.whitman.edu/blog/an-evening-of-reflections-with-professor-david-schmitz/

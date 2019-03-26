@@ -6,8 +6,7 @@ post_title: >
   Digitization of The Pioneer
 author: Julie Carter
 post_excerpt: |
-  Thursday, Mar. 28 at 7 p.m. at Allen Reading Room, Penrose Library
-  
+  Thursday, Mar. 28 at 7 p.m. at Allen Reading Room, Penrose Library.
   A Lecture on “the Liberal Arts in Crisis in the 1970s: A Preview of Volume III of the History of Whitman College”
 layout: post
 permalink: >
@@ -22,5 +21,5 @@ post_date: 2019-03-25 15:32:57
 <p><em>Professor Schmitz has taught history at Whitman since 1985 and celebrated his retirement from the classroom this past May. He is the author or editor of ten books, most recently "Richard Nixon and the Vietnam War: The End of the American Century." During his tenure he served his department, the college, and the Whitman community in numerous ways, including Chair of the Faculty and the most recent Presidential Search committee.</em></p>
 
 <!-- wp:image {"id":1265} -->
-<figure class="wp-block-image"><img src="https://library.whitman.edu/blog/wp-content/uploads/sites/4/2019/03/Schmitz-poster-791x1024.png" alt="" class="wp-image-1265" /></figure>
+<figure class="wp-block-image"><img src="https://library.whitman.edu/blog/wp-content/uploads/sites/4/2019/03/Schmitz-poster-791x1024.png" alt="" class="wp-image-1265"/></figure>
 <!-- /wp:image -->

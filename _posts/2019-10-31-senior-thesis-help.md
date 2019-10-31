@@ -26,5 +26,5 @@ post_date: 2019-10-31 10:54:42
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>We have office hours in the library from 9-12, 1-5 Monday through Friday. Just look for the Research Help sign to find the right office (all near the circulation desk). You can also <a href="https://library.whitman.edu/appointments/">schedule an appointment</a> with one of us if you would like. In November we will be hosting drop-in help sessions. </p>
+<p>We have office hours in the library from 9-12, 1-5 Monday&nbsp;through&nbsp;Friday. Just look for the Research Help sign to find the right office (all near the circulation desk). You can also <a href="https://library.whitman.edu/appointments/">schedule an appointment</a> with one of us if you would like. In November we will be hosting drop-in help sessions. </p>
 <!-- /wp:paragraph -->

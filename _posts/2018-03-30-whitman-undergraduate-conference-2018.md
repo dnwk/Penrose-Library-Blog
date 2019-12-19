@@ -22,23 +22,23 @@ Here are some examples of Undergraduate Conference projects we have collected in
 
 <strong>2017</strong>
 
-Nina Finley --  <a href="http://arminda.whitman.edu/undergraduate_conference/2017/secrets_of_the_deep_I/4/">How to Spend an Alaskan Solstice: Sea Star Wasting Disease and Environmental Education in the North</a>
+Nina Finley --  <a href="https://arminda.whitman.edu/object/arminda61372">How to Spend an Alaskan Solstice: Sea Star Wasting Disease and Environmental Education in the North</a>
 
-Lin Luo -- <a href="http://arminda.whitman.edu/undergraduate_conference/2017/culture_and_care/3/">Culture, Family and Feelings of Closeness</a>
+Lin Luo -- <a href="https://arminda.whitman.edu/object/arminda61369">Culture, Family and Feelings of Closeness</a>
 
-Philip Stefani -- <a href="http://arminda.whitman.edu/undergraduate_conference/2017/art_theory_and_critique/4/">Critique of Jacob Hashimoto's <em>When Nothing Ends, Nothing Remains</em></a>
+Philip Stefani -- <a href="https://arminda.whitman.edu/object/arminda61368">Critique of Jacob Hashimoto's <em>When Nothing Ends, Nothing Remains</em></a>
 
-Zoey Watts, Jamie Friedman, and Marianne Kellogg -- <a href="http://arminda.whitman.edu/undergraduate_conference/2017/poster/41/">#ImWithHer: Predictors of Support for Female Candidates</a>
+Zoey Watts, Jamie Friedman, and Marianne Kellogg -- <a href="https://arminda.whitman.edu/object/arminda61371">#ImWithHer: Predictors of Support for Female Candidates</a>
 
 <strong>2016</strong>
 
-Andrea Berg -- <a href="http://arminda.whitman.edu/undergraduate_conference/2016/raceprejudice/3">Care and Control in Civil Immigration Detention</a>
+Andrea Berg -- <a href="https://arminda.whitman.edu/object/arminda61359">Care and Control in Civil Immigration Detention</a>
 
-Spencer Mueller -- <a href="http://arminda.whitman.edu/undergraduate_conference/2016/poster/16/">Games and Social Identity in Danish Cafes</a>
+Spencer Mueller -- <a href="https://arminda.whitman.edu/object/arminda61356">Games and Social Identity in Danish Cafes</a>
 
-Anneka Sonstroem, Mira Engel, and Trevor Press -- <a href="http://arminda.whitman.edu/undergraduate_conference/2016/poster/9/">Disgust Conditioning and Eye Tracking</a>
+Anneka Sonstroem, Mira Engel, and Trevor Press -- <a href="https://arminda.whitman.edu/object/arminda61358">Disgust Conditioning and Eye Tracking</a>
 
-Leda Zakarison -- <a href="http://arminda.whitman.edu/undergraduate_conference/2016/rhetoricpublicculture/1">Mipsters, IllMuslims, and MAZA: Muslim Americans and Social Media</a>
+Leda Zakarison -- <a href="https://arminda.whitman.edu/object/arminda61363">Mipsters, IllMuslims, and MAZA: Muslim Americans and Social Media</a>
 
 If you would like us to post your presentation slides, paper, or poster in ARMINDA, here is what to do:
 <ol>

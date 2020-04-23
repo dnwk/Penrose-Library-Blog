@@ -10,7 +10,11 @@ published: true
 post_date: 2020-04-03 15:22:51
 ---
 <!-- wp:paragraph -->
-<p>In collaboration with students in Library 160: Documentation and Representation in Archives, the Whitman College and Northwest Archives is creating a digital archive of the Whitman community's experiences during the COVID-19 pandemic. As we move classes online, work, teach and learn from home, and practice social distancing, our normal experiences and routines have been displaced and disrupted. We hope to collect the stories, experiences, and evidence of our changed lives, both the painful and difficult, and the unexpectedly beautiful and hopeful.&nbsp;</p>
+<p>In collaboration with students in Library 160: Documentation and Representation in Archives, the Whitman College and Northwest Archives is creating a digital archive of the Whitman community's experiences during the COVID-19 pandemic. As we move classes online, work, teach and learn from home, and practice social distancing, our normal experiences and routines have been displaced and disrupted. We hope to collect the stories, experiences, and evidence of our changed lives, both the painful and difficult, and the unexpectedly beautiful and hopeful. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>You can view submissions to the digital archive in <a href="https://arminda.whitman.edu/collections/whitman-college-coronavirus-stories-collection">ARMINDA</a>, our institutional repository.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"fontSize":"medium"} -->
@@ -48,3 +52,7 @@ post_date: 2020-04-03 15:22:51
 <!-- wp:image {"align":"center","id":1423,"sizeSlug":"large"} -->
 <div class="wp-block-image"><figure class="aligncenter size-large"><img src="https://library.whitman.edu/blog/wp-content/uploads/sites/4/2020/04/Lyman_1918-10-21.png" alt="" class="wp-image-1423"/><figcaption>Diary entry from Whitman Professor of History William Denison Lyman, October 21, 1918. Available in Arminda: <a href="https://arminda.whitman.edu/object/arminda29390">https://arminda.whitman.edu/object/arminda29390</a></figcaption></figure></div>
 <!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>This project has been inspired by, and borrowed from, ideas generated from <a href="https://docs.google.com/document/d/1OSYGg9o9MEuSAalYEOD8FZjKNJsnX07cKIkv4P6QiJk/edit?pli=1">Documenting Your Community’s Experience of COVID-19: A Resource List</a>. In particular, we acknowledge the work of Atkins <a href="https://library.uncc.edu/contribute-your-stories-covid-19-outbreak">Library Special Collections &amp; University Archives</a> at the UNC Charlotte.</p>
+<!-- /wp:paragraph -->

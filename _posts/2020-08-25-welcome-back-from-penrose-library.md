@@ -62,9 +62,13 @@ post_date: 2020-08-25 10:45:48
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"left","fontSize":"medium"} -->
-<p class="has-text-align-left has-medium-font-size"><strong>Due Dates</strong>                               </p>
+<p class="has-text-align-left has-medium-font-size"><strong>Due Dates</strong>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 <p>We are extending due dates for library materials to the end of the semester. Please return items to the outside book drop when you are finished with them.</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1456,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://library.whitman.edu/blog/wp-content/uploads/sites/4/2020/08/Penrose-Library-opening-chart-1024x731.jpg" alt="" class="wp-image-1456"/></figure>
+<!-- /wp:image -->
